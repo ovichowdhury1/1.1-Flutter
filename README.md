@@ -1,5 +1,5 @@
-![Screenshot_1619917930](https://user-images.githubusercontent.com/73254785/116798883-d455fc80-ab15-11eb-891d-191e2858b72e.png)
 
+<img src="https://user-images.githubusercontent.com/73254785/116798883-d455fc80-ab15-11eb-891d-191e2858b72e.png" width="400" height="790">
 
 # firstproject
 
